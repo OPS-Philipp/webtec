@@ -1,0 +1,84 @@
+header {
+	background-color: #595959;
+}
+
+body {
+	background-color: #595959;
+}
+
+h1 {
+	font-family: veranda, sans-serif !important;
+	font-weight: bold;
+}
+h2 {
+	font-family: veranda, sans-serif !important;
+	font-weight: bold;
+}
+h3 {
+	font-family: veranda, sans-serif !important;
+	font-weight: bold;
+}
+h4 {
+	font-family: veranda, sans-serif !important;
+	font-weight: bold;
+}
+h5 {
+	font-family: veranda, sans-serif !important;
+	font-weight: bold;
+}
+h6 {
+	font-family: veranda, sans-serif !important;
+	font-weight: bold;
+}
+
+p {
+	font-family: georgia, sans-serif !important;
+}
+ul {
+	font-family: georgia, sans-serif !important;
+}
+
+#menue {
+	width: 30%;
+	height: 90vh;
+	float: left;
+	background-color: #000000;
+}
+
+#site {
+	margin-left: 3%;
+	margin-right: 3%;
+	width: 64%;
+	height: 100%;
+	float: right;
+	background-color: #595959;
+}
+
+.primary {
+	color: #33adff;
+	font-family: sans-serif;
+}
+.warning {
+	color: #cccc00;
+	font-family: sans-serif;
+}
+.danger {
+	color: #ff1a1a;
+	font-family: sans-serif;
+}
+.light {
+	color: 	#e6e6e6;
+	font-family: sans-serif;
+}
+
+img {
+	width:100%
+}
+li {
+	padding: 2px;
+}
+
+iframe {
+	width: 90%;
+	height: 70vh;
+}
